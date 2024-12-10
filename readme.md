@@ -10,3 +10,4 @@
 
 ## [3_RAG](3_RAG)
 - [Agentic RAG](3_RAG/Agentic_Rag.ipynb)
+- [Adaptive RAG](3_RAG/Adaptive_RAG.ipynb)
