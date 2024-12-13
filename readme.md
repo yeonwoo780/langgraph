@@ -11,3 +11,5 @@
 ## [3_RAG](3_RAG)
 - [Agentic RAG](3_RAG/Agentic_Rag.ipynb) : 검색 에이전트
 - [Adaptive RAG](3_RAG/Adaptive_RAG.ipynb) : 쿼리분석과 활성/자체 수정 RAG를 통합한 RAG
+- [Corrective RAG](3_RAG/Corrective_RAG.ipynb) : 검색된 문서에 대한 자체 반성/자체 평가를 통합한 RAG
+
