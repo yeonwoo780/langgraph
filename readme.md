@@ -19,3 +19,5 @@
 **Planning Agents**
 - [Plan-and-Execute](4_Agent/PlanAndExecute.ipynb) : 기본 계획 및 실행 에이전트 구현
 - [Reasoning without observation](4_Agent/ReWOO.ipynb) : 관찰을 변수로 저장하여 재계획 줄임
+
+**Reflection & Critique**
