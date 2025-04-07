@@ -19,6 +19,7 @@
 **Planning Agents**
 - [Plan-and-Execute](4_Agent/PlanAndExecute.ipynb) : 기본 계획 및 실행 에이전트 구현
 - [Reasoning without observation](4_Agent/ReWOO.ipynb) : 관찰을 변수로 저장하여 재계획 줄임
-- [LLMCompiler](4_Agent/) : 작업 DAG를 스트리밍하고 즉시 실행
+- [LLMCompiler](4_Agent/LLMCompiler.ipynb) : 작업 DAG를 스트리밍하고 즉시 실행
 
-**Reflection & Critique**
+## [5_Custom](5_Custom)
+- [Web Research](5_Custom/WebResearch.ipynb)

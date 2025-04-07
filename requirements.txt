@@ -5,3 +5,4 @@ langgraph==0.3.25
 langchain-tavily==0.1.5
 python-dotenv==1.1.0
 numexpr==2.10.2
+wikipedia==1.4.0
