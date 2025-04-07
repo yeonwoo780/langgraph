@@ -1,0 +1,7 @@
+langchain==0.3.23
+langchain_community==0.3.21
+langchain_openai==0.3.12
+langgraph==0.3.25
+langchain-tavily==0.1.5
+python-dotenv==1.1.0
+numexpr==2.10.2
